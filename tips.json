@@ -1,0 +1,128 @@
+{
+  "energy": [
+    {
+      "text": "Turn off lights when you leave a room to save energy.",
+      "image": "https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZW5lcmd5fGVufDB8fDB8fHwy"
+    },
+    {
+      "text": "Unplug devices when not in use to prevent phantom energy usage.",
+      "image": "https://images.unsplash.com/photo-1585048702851-cf8917430efb?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Switch to LED bulbs for more efficient lighting.",
+      "image": "https://images.unsplash.com/photo-1519750783826-e269b3a0e3c9?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Use natural light during the day instead of artificial lighting.",
+      "image": "https://images.unsplash.com/photo-1500336624523-d727130c3328?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Set your thermostat a few degrees lower in winter to save energy.",
+      "image": "https://images.unsplash.com/photo-1616401788015-c94c1d3c56cb?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Insulate your home to maintain indoor temperatures efficiently.",
+      "image": "https://images.unsplash.com/photo-1611095973515-9934013abdd0?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Use a programmable thermostat to optimize energy use.",
+      "image": "https://images.unsplash.com/photo-1604475907441-0c3b83ffba5d?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Wash clothes in cold water to save energy.",
+      "image": "https://images.unsplash.com/photo-1601163586992-73b05e5397b8?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Air-dry clothes instead of using a dryer.",
+      "image": "https://images.unsplash.com/photo-1623055404221-03e57b222854?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Turn off your computer when not in use to save power.",
+      "image": "https://images.unsplash.com/photo-1555617117-08ac019be6bf?q=80&w=2070&auto=format&fit=crop"
+    }
+  ],
+  "recycling": [
+    {
+      "text": "Recycle paper, plastic, and glass to reduce waste.",
+      "image": "https://images.unsplash.com/photo-1581457653082-cc5d546e1f24?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Reuse containers and jars instead of throwing them away.",
+      "image": "https://images.unsplash.com/photo-1587304074074-3c867a1a230c?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Compost organic waste to enrich soil and reduce landfill waste.",
+      "image": "https://images.unsplash.com/photo-1523837157348-ffbdaccfc7de?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Donate old clothes instead of discarding them.",
+      "image": "https://images.unsplash.com/photo-1523306477927-80e7e848e80e?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Opt for reusable shopping bags instead of single-use plastics.",
+      "image": "https://images.unsplash.com/photo-1564866657319-7aa3d7566670?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Recycle electronics responsibly to reduce e-waste.",
+      "image": "https://images.unsplash.com/photo-1589395937772-fc91b9f6e023?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Use refillable water bottles to cut down on plastic waste.",
+      "image": "https://images.unsplash.com/photo-1571871540548-df8047f1f7a4?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Choose products with minimal or recyclable packaging.",
+      "image": "https://images.unsplash.com/photo-1563371076-6f287489d129?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Repurpose old furniture instead of throwing it out.",
+      "image": "https://images.unsplash.com/photo-1553524819-1cfa4f3f08a1?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Participate in local recycling programs to support sustainability.",
+      "image": "https://images.unsplash.com/photo-1548902140-24849d11e9ee?q=80&w=2070&auto=format&fit=crop"
+    }
+  ],
+  "transportation": [
+    {
+      "text": "Walk or bike instead of driving to reduce carbon emissions.",
+      "image": "https://images.unsplash.com/photo-1580170152643-60c99112d95c?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Carpool with others to save fuel and reduce traffic.",
+      "image": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Use public transportation to lower your carbon footprint.",
+      "image": "https://images.unsplash.com/photo-1575000832348-2187e678de8a?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Maintain your vehicle to ensure it runs efficiently.",
+      "image": "https://images.unsplash.com/photo-1526761998152-7c7f47cfc329?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Drive at a steady speed to improve fuel efficiency.",
+      "image": "https://images.unsplash.com/photo-1558981033-12fbe814886c?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Avoid idling your car to save fuel and reduce emissions.",
+      "image": "https://images.unsplash.com/photo-1534232306545-e423b3a8d7d4?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Plan errands to minimize unnecessary driving.",
+      "image": "https://images.unsplash.com/photo-1605909171602-5d8620e46db5?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Consider electric or hybrid vehicles to reduce environmental impact.",
+      "image": "https://images.unsplash.com/photo-1584467735878-d601862f4d8a?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Use a bike-sharing program for short trips around the city.",
+      "image": "https://images.unsplash.com/photo-1516257980-23969cd3a89b?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "text": "Combine trips to reduce the number of miles driven.",
+      "image": "https://images.unsplash.com/photo-1574269454160-25c8c2e09dc6?q=80&w=2070&auto=format&fit=crop"
+    }
+  ]
+}

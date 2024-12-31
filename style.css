@@ -1,0 +1,30 @@
+body {
+  background-color: #f0f8f0;
+  font-family: Arial, sans-serif;
+  width: 300px !important;
+}
+h1 {
+  color: #2d6a4f;
+}
+#tip {
+  color: #555;
+  min-height: 100px; /* Prevent layout shift */
+}
+.fade-in {
+  animation: fadeIn 1s ease-in;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+#tip-image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
